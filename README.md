@@ -1,4 +1,2 @@
 # latihan-branch
-
-cara membuat branch untuk latihan
-latiha membuat pull request
+sangat seru sekali belajar github
