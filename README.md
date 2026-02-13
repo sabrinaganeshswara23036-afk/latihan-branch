@@ -1,2 +1,2 @@
 # latihan-branch
-aku sedang belajar tentang pull request
+sangat seru sekali belajar github
